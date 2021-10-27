@@ -1,0 +1,9 @@
+print("Ingresa el tiempo en segundos")
+tiempo= float(input())
+
+print("Ingrese la velocidad")
+velocidad= float(input())
+
+distancia= tiempo * velocidad
+
+print("La distancia recorrida por el movil es:" + str(distancia) + "metros")

@@ -6,4 +6,4 @@ velocidad= float(input())
 
 distancia= tiempo * velocidad
 
-print("La distancia recorrida por el movil es:" + str(distancia) + "metros")
+print("La distancia recorrida  por el movil es:" + str(distancia) + "metros")
